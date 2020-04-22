@@ -1,2 +1,2 @@
 # final_project
-Each team creates a fork from this for their course project
+This is my project and I wish to study the relation between temperature and spread of COVID-19.
