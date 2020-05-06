@@ -3,6 +3,7 @@ After reading several news pieces on the possible affect of temperature on the s
 While exploring our data, we also designed another hypothesis which relates the population os the area to the number of cases it may have. We studied this for the states here in America.
 
 Link to the presentation: https://mediaspace.illinois.edu/media/t/1_vziqympf
+(We will upload a new link soon for non-Illinois users)
 
 Hypothesis 1: Warmer States within the US have lesser cases of COVID-19.
 Hyposthesis 2: States with lower population will have lesser number of cases. 
