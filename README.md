@@ -1,6 +1,8 @@
 # Exploring correlation between COVID-19 and Temperature
 After reading several news pieces on the possible affect of temperature on the spread of Corona Virus, we decided to take it up as a projet and explore the correlation between temperature and covid-18 both through the United States and the World.
-While exploring our data, we also designed another hypithesis which relates the population os the area to the number of cases it may have. We studied this for the states here in America.
+While exploring our data, we also designed another hypothesis which relates the population os the area to the number of cases it may have. We studied this for the states here in America.
+
+Link to the presentation: https://mediaspace.illinois.edu/media/t/1_vziqympf
 
 Hypothesis 1: Warmer States within the US have lesser cases of COVID-19.
 Hyposthesis 2: States with lower population will have lesser number of cases. 
