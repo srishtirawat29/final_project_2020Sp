@@ -7,7 +7,7 @@ Link to the presentation: https://mediaspace.illinois.edu/media/t/1_vziqympf<br/
 (We will upload a new link soon for non-Illinois users)<br/>
 <br/>
 Hypothesis 1: Warmer States within the US have lesser cases of COVID-19.<br/>
-Hypothesis 2: The states with higher population will have higher spread compared to states with lower population<br/> 
+Hypothesis 2: The states with higher population will have higher spread of COVID-19 as compared to states with lower population<br/> 
 Hypothesis 3: Warmer countries have lesser number of COVID-19 cases.<br/>
 
 ## Design Philosophy and Assumptions - <br/>
