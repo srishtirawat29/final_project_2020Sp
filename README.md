@@ -7,7 +7,7 @@ Link to the presentation: https://mediaspace.illinois.edu/media/t/1_vziqympf<br/
 (We will upload a new link soon for non-Illinois users)<br/>
 <br/>
 Hypothesis 1: Warmer States within the US have lesser cases of COVID-19.<br/>
-Hyposthesis 2: States with lower population will have lesser number of cases.<br/> 
+Hypothesis 2: States with lower population will have lesser number of cases.<br/> 
 Hypothesis 3: Warmer countries have lesser number of COVID-19 cases.<br/>
 
 ## Design Philosophy and Assumptions - <br/>
