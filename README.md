@@ -16,6 +16,9 @@ Hypothesis 4: Warmer countries have lesser number of COVID-19 cases<br/>
 -The data for the 3rd case has been taken from Jan 1,2020 till May 05,2020.<br/>
 -We picked the countries for the 3rd Hypothesis and categorized them into hot and cold based on the fact that countries in the northern hemisphere experience winter during the time period we have considered and countries in the southern hemisphere have summers during the same time.
 
+# Contributions:
+This project was completed by Srishti Rawat(me) and Harshit Bhatia. Initially both of us had many ideas of our own but then both of us decided to work together on my idea of working with COVID-19 data and it's possible correlation with temperature within the USA and globally, i.e. Hypothesis 1 and 4. Harshit, on further discussion with Mr. Weible, came up with the idea to add hypothesis 2 to the project as an interesting take. While working on the project, we together decided to add Hypothesis 3 to our project. 
+
 # Data Sources <br/>
 
 COVID-19 Data about countries: https://github.com/owid/covid-19-data/blob/master/public/data/ecdc/full_data.csv <br/>
