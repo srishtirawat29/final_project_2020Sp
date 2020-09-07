@@ -1,6 +1,6 @@
 # Exploring correlation between COVID-19 and Temperature
 After reading several news pieces on the possible affect of temperature on the spread of Corona Virus, we decided to take it up as a projet and explore the correlation between temperature and covid-19 both through the United States and the World.
-While exploring our data, we also designed another hypothesis which relates the population os the area to the number of cases it may have. We studied this for the states here in America.<br/>
+While exploring our data, we also designed another hypothesis which relates the population of the area to the number of cases it may have. We studied this for the states here in America.<br/>
 <br/>
 
 Link to the presentation: https://mediaspace.illinois.edu/media/t/1_vziqympf<br/>
